@@ -13,8 +13,10 @@ A simple chatbot application built with LangChain, Streamlit, and OpenRouter API
 ## Screenshot
 
 ### Langchain With LLAMA 3.2
+<img width="1653" height="854" alt="Screenshot 2025-11-13 011812" src="https://github.com/user-attachments/assets/9a98baa9-d7a5-461b-adac-df30da4b73a8" />
 
 ### Langchain With Openrouter API
+<img width="1499" height="844" alt="Screenshot 2025-11-13 012021" src="https://github.com/user-attachments/assets/1931db8e-97db-478a-8883-99a64f080546" />
 
 
 ## Prerequisites
