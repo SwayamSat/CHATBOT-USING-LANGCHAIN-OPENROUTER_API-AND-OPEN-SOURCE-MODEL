@@ -1,4 +1,4 @@
-# Chatbot Using LangChain and OpenRouter API
+# Chatbot Using LangChain OpenRouter API And LLAMA 3.2
 
 A simple chatbot application built with LangChain, Streamlit, and OpenRouter API, utilizing open-source language models.
 
@@ -8,6 +8,11 @@ A simple chatbot application built with LangChain, Streamlit, and OpenRouter API
 - Integration with OpenRouter API for accessing GPT-OSS-20B model
 - LangChain framework for prompt management and output parsing
 - LangSmith tracking for monitoring and debugging
+
+
+## Screenshot
+
+
 
 ## Prerequisites
 
@@ -57,6 +62,3 @@ The application will open in your default browser. Enter your query in the text 
 - **OpenRouter API** - Access to various open-source models
 - **Python-dotenv** - Environment variable management
 
-## License
-
-This project is open source and available under the MIT License.
