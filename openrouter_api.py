@@ -25,7 +25,7 @@ prompt=ChatPromptTemplate.from_messages(
 
 ## streamlit framework
 
-st.title('Langchain Demo With OpenRouter GPT-OSS-20B')
+st.title('Langchain With OpenRouter GPT-OSS-20B')
 input_text=st.text_input("Search the topic u want")
 
 # OpenRouter LLM with GPT-OSS-20B model
